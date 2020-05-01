@@ -1,0 +1,12 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "factory": "ts-node creational/factory.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
