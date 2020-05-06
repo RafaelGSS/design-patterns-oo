@@ -8,7 +8,8 @@
     "abstract-factory": "ts-node creational/abstractFactory.ts",
     "builder": "ts-node creational/builder.ts",
     "singleton": "ts-node creational/singleton.ts",
-    "adapter": "ts-node structural/adapter.ts"
+    "adapter": "ts-node structural/adapter.ts",
+    "bridge": "ts-node structural/bridge.ts"
   },
   "keywords": [],
   "author": "",
