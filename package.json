@@ -10,7 +10,8 @@
     "singleton": "ts-node creational/singleton.ts",
     "adapter": "ts-node structural/adapter.ts",
     "bridge": "ts-node structural/bridge.ts",
-    "composite": "ts-node structural/composite.ts"
+    "composite": "ts-node structural/composite.ts",
+    "decorator": "ts-node structural/decorator.ts"
   },
   "keywords": [],
   "author": "",
