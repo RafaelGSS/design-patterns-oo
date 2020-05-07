@@ -9,7 +9,8 @@
     "builder": "ts-node creational/builder.ts",
     "singleton": "ts-node creational/singleton.ts",
     "adapter": "ts-node structural/adapter.ts",
-    "bridge": "ts-node structural/bridge.ts"
+    "bridge": "ts-node structural/bridge.ts",
+    "composite": "ts-node structural/composite.ts"
   },
   "keywords": [],
   "author": "",
