@@ -12,7 +12,8 @@
     "bridge": "ts-node structural/bridge.ts",
     "composite": "ts-node structural/composite.ts",
     "decorator": "ts-node structural/decorator.ts",
-    "facade": "ts-node structural/facade.ts"
+    "facade": "ts-node structural/facade.ts",
+    "proxy": "ts-node structural/proxy.ts"
   },
   "keywords": [],
   "author": "",
