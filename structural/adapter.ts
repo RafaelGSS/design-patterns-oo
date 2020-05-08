@@ -1,3 +1,7 @@
+/*
+ * Adapter(Wrapper)
+ */
+
 interface MessageAdapter {
   adapt(message: string): object;
 }

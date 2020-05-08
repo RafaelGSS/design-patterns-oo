@@ -1,5 +1,5 @@
 /*
- * Decorator
+ * Decorator(Wrapper)
  *
  * Decorator is structural design pattern that lets you attach new behaviors to objects
  * by placing these objects inside special wrapper object that contains the behaviors.
