@@ -11,7 +11,8 @@
     "adapter": "ts-node structural/adapter.ts",
     "bridge": "ts-node structural/bridge.ts",
     "composite": "ts-node structural/composite.ts",
-    "decorator": "ts-node structural/decorator.ts"
+    "decorator": "ts-node structural/decorator.ts",
+    "facade": "ts-node structural/facade.ts"
   },
   "keywords": [],
   "author": "",
