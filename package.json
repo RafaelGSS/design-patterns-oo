@@ -13,7 +13,8 @@
     "composite": "ts-node structural/composite.ts",
     "decorator": "ts-node structural/decorator.ts",
     "facade": "ts-node structural/facade.ts",
-    "proxy": "ts-node structural/proxy.ts"
+    "proxy": "ts-node structural/proxy.ts",
+    "mediator": "ts-node behavioral/mediator.ts"
   },
   "keywords": [],
   "author": "",
