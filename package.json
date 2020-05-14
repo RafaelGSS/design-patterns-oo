@@ -14,7 +14,8 @@
     "decorator": "ts-node structural/decorator.ts",
     "facade": "ts-node structural/facade.ts",
     "proxy": "ts-node structural/proxy.ts",
-    "mediator": "ts-node behavioral/mediator.ts"
+    "mediator": "ts-node behavioral/mediator.ts",
+    "memento": "ts-node behavioral/memento.ts"
   },
   "keywords": [],
   "author": "",
